@@ -1,6 +1,7 @@
 # Machine learning in medicine and others
 Introduction - the project's aim
-Goal of the project is to analise data about Breast Cancer, try to learn how to aproach such topic and search for ways recognize healthy images from the sick.
+Goal of the project is to prepare and analise data about Breast Cancer with Python's libraries.
+I was learning how to aproach such topic and search for ways recognize healthy images from the sick.
 Each lesson has its own raport.
 
 ## Technologies
